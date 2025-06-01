@@ -17,13 +17,29 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Satisfait ou Remboursé",
+            "url": ""
+          }
+        },
+        "message_eDH3RH": {
+          "type": "message",
+          "settings": {
+            "text": "Livraison gratuite à Domicile",
+            "url": ""
+          }
+        },
+        "message_QdxCpe": {
+          "type": "message",
+          "settings": {
+            "text": "Paiement 100% securisé",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_eDH3RH",
+        "message_QdxCpe"
       ],
       "settings": {
         "enable_sticky": false,
