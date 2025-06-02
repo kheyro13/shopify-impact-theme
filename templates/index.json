@@ -270,6 +270,12 @@
             "heading_tag": "h2"
           }
         },
+        "liquid_FKRnVw": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "badges_HYPDdt": {
           "type": "badges",
           "settings": {}
@@ -329,6 +335,7 @@
       "block_order": [
         "liquid_LnkTWt",
         "title_9Hztdn",
+        "liquid_FKRnVw",
         "badges_HYPDdt",
         "price_LUYtyn",
         "rating_cdUVc4",
