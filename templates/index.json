@@ -308,6 +308,12 @@
             "liquid": "<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Free Shipping Notification</title>\n    <style>\n        .free-shipping-notification {\n            display: flex;\n            align-items: center;\n            font-size: 15px;\n            color: #333;\n        }\n        .free-shipping-notification img {\n            width: 22px;\n            height: 22px;\n            margin-right: 8px;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"free-shipping-notification\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/shipped_1.png?v=1722606047\" alt=\"Free Shipping Icon\">\n        <span>Livraison Gratuite</span>\n    </div>\n</body>\n</html>"
           }
         },
+        "liquid_mGqb6k": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "rating_cdUVc4": {
           "type": "rating",
           "settings": {
@@ -370,6 +376,7 @@
         "badges_HYPDdt",
         "price_LUYtyn",
         "liquid_mWMqnq",
+        "liquid_mGqb6k",
         "rating_cdUVc4",
         "separator_Jwei7x",
         "description_nHVwYf",
