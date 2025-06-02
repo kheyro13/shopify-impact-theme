@@ -326,6 +326,14 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "image_hahi8r": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/affaze.png",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "buy_buttons_cATBKV": {
           "type": "buy_buttons",
           "settings": {
@@ -355,6 +363,7 @@
         "description_nHVwYf",
         "variant_picker_tAGrie",
         "quantity_selector_yLV4bb",
+        "image_hahi8r",
         "buy_buttons_cATBKV",
         "pickup_availability_rXUffx"
       ],
