@@ -270,6 +270,10 @@
             "heading_tag": "h2"
           }
         },
+        "sku_7NhXjT": {
+          "type": "sku",
+          "settings": {}
+        },
         "liquid_wxiRTz": {
           "type": "liquid",
           "settings": {
@@ -281,10 +285,6 @@
           "settings": {
             "liquid": ""
           }
-        },
-        "sku_7NhXjT": {
-          "type": "sku",
-          "settings": {}
         },
         "liquid_FKRnVw": {
           "type": "liquid",
@@ -369,9 +369,9 @@
       "block_order": [
         "liquid_LnkTWt",
         "title_9Hztdn",
+        "sku_7NhXjT",
         "liquid_wxiRTz",
         "liquid_7aCQzg",
-        "sku_7NhXjT",
         "liquid_FKRnVw",
         "badges_HYPDdt",
         "price_LUYtyn",
