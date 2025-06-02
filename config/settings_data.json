@@ -21,7 +21,7 @@
     "header_text_color": "#1a1a1a",
     "footer_background": "#000000",
     "footer_text_color": "#ffffff",
-    "primary_button_background": "#1a1a1a",
+    "primary_button_background": "#c37f5f",
     "primary_button_text_color": "#ffffff",
     "secondary_button_background": "#f0c417",
     "secondary_button_text_color": "#1a1a1a",
@@ -35,6 +35,7 @@
     "heading_apparition": "split_fade",
     "product_color_display": "swatch",
     "product_info_alignment": "start",
+    "favicon": "shopify://shop_images/logo_favicon.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
     "content_for_index": []
