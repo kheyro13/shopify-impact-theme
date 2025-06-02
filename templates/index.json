@@ -201,9 +201,9 @@
           "settings": {
             "image": "shopify://shop_images/ZDZ.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Sarah S.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><br/>J’étais sceptique au début, mais au bout d’une semaine, j’ai vu mon teint changer doucement. Plus besoin de fond de teint, j’ai un glow naturel comme après une semaine à la mer !<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -214,9 +214,9 @@
           "settings": {
             "image": "shopify://shop_images/client_3_-_Modifie.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Julie A.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><br/>J’ai la peau claire et j’ai toujours évité les autobronzants classiques… celui-ci est parfait! Zéro tâche, effet progressif, et mes collègues m’ont même demandé si j’étais partie en vacances. <br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -227,9 +227,9 @@
           "settings": {
             "image": "shopify://shop_images/client_3_-_Modifie.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Inès B.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><br/>Tellement pratique ! Je le mets dans mon jus du matin, et ma peau commence à prendre une jolie teinte dorée sans aucune trace. En plus, ma peau est hyper douce.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
