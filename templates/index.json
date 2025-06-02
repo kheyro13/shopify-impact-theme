@@ -330,7 +330,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/affaze.png",
-            "alignment": "start",
+            "alignment": "center",
             "max_width": 500
           }
         },
