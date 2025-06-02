@@ -302,6 +302,12 @@
             "show_taxes_notice": false
           }
         },
+        "liquid_mWMqnq": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Free Shipping Notification</title>\n    <style>\n        .free-shipping-notification {\n            display: flex;\n            align-items: center;\n            font-size: 15px;\n            color: #333;\n        }\n        .free-shipping-notification img {\n            width: 22px;\n            height: 22px;\n            margin-right: 8px;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"free-shipping-notification\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/shipped_1.png?v=1722606047\" alt=\"Free Shipping Icon\">\n        <span>Livraison Gratuite</span>\n    </div>\n</body>\n</html>"
+          }
+        },
         "rating_cdUVc4": {
           "type": "rating",
           "settings": {
@@ -343,12 +349,6 @@
             "payment_button_text_color": ""
           }
         },
-        "liquid_GgaXf4": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Payment Options</title>\n    <style>\n        body.unique-body-Pay123 {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #f9f9f9;\n        }\n        .unique-payment-container-Xyz456 {\n            text-align: center;\n        }\n        .unique-payment-options-Abc789 {\n            display: flex;\n            justify-content: center;\n            gap: 10px;\n        }\n        .unique-payment-options-Abc789 img {\n            width: 50px;\n            height: auto;\n        }\n    </style>\n</head>\n<body class=\"unique-body-Pay123\">\n    <div class=\"unique-payment-container-Xyz456\">\n        <div class=\"unique-payment-options-Abc789\">\n            <img src=\"https://www.svgrepo.com/show/14823/amex.svg\" alt=\"AMEX\">\n            <img src=\"https://www.svgrepo.com/show/508402/apple-pay.svg\" alt=\"Apple Pay\">\n            <img src=\"https://www.svgrepo.com/show/508703/mastercard.svg\" alt=\"MasterCard\">\n            <img src=\"https://www.svgrepo.com/show/508716/paypal.svg\" alt=\"PayPal\">\n            <img src=\"https://www.svgrepo.com/show/508690/google-pay.svg\" alt=\"Google Pay\">\n            <img src=\"https://www.svgrepo.com/show/508730/visa-classic.svg\" alt=\"VISA\">\n        </div>\n    </div>\n</body>\n</html>"
-          }
-        },
         "liquid_ENERb8": {
           "type": "liquid",
           "settings": {
@@ -369,13 +369,13 @@
         "liquid_FKRnVw",
         "badges_HYPDdt",
         "price_LUYtyn",
+        "liquid_mWMqnq",
         "rating_cdUVc4",
         "separator_Jwei7x",
         "description_nHVwYf",
         "variant_picker_tAGrie",
         "quantity_selector_yLV4bb",
         "buy_buttons_cATBKV",
-        "liquid_GgaXf4",
         "liquid_ENERb8",
         "pickup_availability_rXUffx"
       ],
