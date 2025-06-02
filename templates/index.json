@@ -343,6 +343,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_ENERb8": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "pickup_availability_rXUffx": {
           "type": "pickup_availability",
           "settings": {}
@@ -363,6 +369,7 @@
         "variant_picker_tAGrie",
         "quantity_selector_yLV4bb",
         "buy_buttons_cATBKV",
+        "liquid_ENERb8",
         "pickup_availability_rXUffx"
       ],
       "name": "Featured product",
