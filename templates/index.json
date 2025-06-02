@@ -274,18 +274,6 @@
           "type": "sku",
           "settings": {}
         },
-        "liquid_wxiRTz": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">En stock : 10 restants</div>\n</div>"
-          }
-        },
-        "liquid_7aCQzg": {
-          "type": "liquid",
-          "settings": {
-            "liquid": ""
-          }
-        },
         "liquid_FKRnVw": {
           "type": "liquid",
           "settings": {
@@ -302,16 +290,10 @@
             "show_taxes_notice": false
           }
         },
-        "liquid_mWMqnq": {
+        "liquid_wxiRTz": {
           "type": "liquid",
           "settings": {
-            "liquid": "<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Free Shipping Notification</title>\n    <style>\n        .free-shipping-notification {\n            display: flex;\n            align-items: center;\n            font-size: 15px;\n            color: #333;\n        }\n        .free-shipping-notification img {\n            width: 22px;\n            height: 22px;\n            margin-right: 8px;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"free-shipping-notification\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/shipped_1.png?v=1722606047\" alt=\"Free Shipping Icon\">\n        <span>Livraison Gratuite</span>\n    </div>\n</body>\n</html>"
-          }
-        },
-        "liquid_mGqb6k": {
-          "type": "liquid",
-          "settings": {
-            "liquid": ""
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">En stock : 10 restants</div>\n</div>"
           }
         },
         "rating_cdUVc4": {
@@ -355,12 +337,6 @@
             "payment_button_text_color": ""
           }
         },
-        "liquid_ENERb8": {
-          "type": "liquid",
-          "settings": {
-            "liquid": ""
-          }
-        },
         "pickup_availability_rXUffx": {
           "type": "pickup_availability",
           "settings": {}
@@ -370,20 +346,16 @@
         "liquid_LnkTWt",
         "title_9Hztdn",
         "sku_7NhXjT",
-        "liquid_wxiRTz",
-        "liquid_7aCQzg",
         "liquid_FKRnVw",
         "badges_HYPDdt",
         "price_LUYtyn",
-        "liquid_mWMqnq",
-        "liquid_mGqb6k",
+        "liquid_wxiRTz",
         "rating_cdUVc4",
         "separator_Jwei7x",
         "description_nHVwYf",
         "variant_picker_tAGrie",
         "quantity_selector_yLV4bb",
         "buy_buttons_cATBKV",
-        "liquid_ENERb8",
         "pickup_availability_rXUffx"
       ],
       "name": "Featured product",
