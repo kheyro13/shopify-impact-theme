@@ -199,6 +199,7 @@
         "item_U79kxU": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ZDZ.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -211,6 +212,7 @@
         "item_kRaAy9": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/client_3_-_Modifie.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -223,6 +225,7 @@
         "item_ehfrT9": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/client_3_-_Modifie.jpg",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -243,10 +246,10 @@
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Nos clientes en parlent le mieux",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
