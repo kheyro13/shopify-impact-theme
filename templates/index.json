@@ -304,6 +304,12 @@
             "max_width": 500
           }
         },
+        "kaching_bundles_app_block_PAKRAQ": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "gouttes-autobronzantes-mavaana®"
+          }
+        },
         "rating_cdUVc4": {
           "type": "rating",
           "settings": {
@@ -375,6 +381,7 @@
         "price_LUYtyn",
         "liquid_wxiRTz",
         "image_6yTMP9",
+        "kaching_bundles_app_block_PAKRAQ",
         "rating_cdUVc4",
         "separator_Jwei7x",
         "description_nHVwYf",
