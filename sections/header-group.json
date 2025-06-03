@@ -57,7 +57,7 @@
         "enable_sticky": true,
         "hide_on_scroll": false,
         "logo": "shopify://shop_images/mon_logo_png_4cbdb5ec-a8b3-4ca9-a0a9-f8fe805a3c0c.png",
-        "logo_max_width": 120,
+        "logo_max_width": 130,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
         "sidebar_menu": "",
