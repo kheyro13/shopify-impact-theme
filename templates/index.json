@@ -411,7 +411,7 @@
           "type": "tab",
           "settings": {
             "title": "Caractéristiques",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "content": "<p><strong>De quoi est-il composé ?</strong><br/><br/>Nos gouttes sont formulées pour une utilisation quotidienne sûre, et contiennent uniquement des ingrédients 100% naturels et véganes. Chaque composant a été sélectionné pour ses bienfaits essentiels sur l'organisme :</p><p>• <strong>Bêtacarotène</strong> – puissant antioxydant, contribue à la santé de la peau et des yeux<br/><br/>• <strong>Lutéine Zéaxanthine</strong> – soutient la vision et protège contre la lumière bleue<br/><br/>• <strong>Acide Ascorbique (Vitamine C)</strong> – renforce l’immunité et stimule la production de collagène<br/><br/>• <strong>L-Tyrosine</strong> – aide à la concentration et à la gestion du stress<br/><br/>• <strong>Chlorhydrate de Pyridoxine (Vitamine B6)</strong> – participe à l'équilibre hormonal et au métabolisme<br/><br/>• <strong>Gluconate de Cuivre</strong> – protège les cellules du stress oxydatif<br/><br/>• <strong>Cyanocobalamine (Vitamine B12)</strong> – soutient l’énergie et la santé du système nerveux<br/><br/>• <strong>Chélate d'Acide Aminé de Fer</strong> – améliore l’oxygénation et lutte contre la fatigue<br/><br/>• <strong>Palmitate de Rétinol (Vitamine A)</strong> – favorise le renouvellement cellulaire<br/><br/>• <strong>Succinate d'Acide D-Alpha-Tocophéryl (Vitamine E)</strong> – protège la peau et les tissus<br/><br/>• <strong>Sorbate de Potassium</strong> – conservateur doux d’origine naturelle<br/><br/>• <strong>Produits de Soja</strong> – source naturelle de nutriments essentiels</p><p><strong>⚠️ Avis d'Allergie :</strong> Ce produit contient du <strong>soja</strong>. Déconseillé aux personnes allergiques.</p>",
             "page": ""
           }
         },
@@ -435,7 +435,15 @@
           "type": "tab",
           "settings": {
             "title": "Conseils d'utilisation",
-            "content": "<p>Votre équipe est à votre disposition pour répondre à vos questions sept jours sur sept.</p><p>Vous pouvez nous contacter par email aux horaires suivants : du lundi au vendredi de 9h à 12h et de 14h à 18h, et le samedi et dimanche de 10h à 12h. N'hésitez pas à nous joindre.</p>",
+            "content": "<p>Diluez environ 0,5 ml (équivalent à un compte-gouttes) dans un verre d’eau (environ 180 ml), à raison d’une fois par jour.</p><p>👉 Évitez de dépasser la dose maximale de 1 ml par jour.</p><p><strong>Petit conseil pour un teint ensoleillé harmonieux :</strong><br/><br/>Pour un résultat progressif et naturel, il est recommandé de faire une pause dans votre routine habituelle les premiers jours, afin de mieux contrôler l’intensité du hâle.</p><p>Pensez à prendre des photos avant/après pour suivre l’évolution et ajuster la fréquence si besoin.</p><p><strong>Mode de consommation :</strong><br/><br/>Les gouttes peuvent être prises seules ou diluées.</p><p>Pour une meilleure assimilation, il est conseillé de les mélanger à de l’eau.</p><p>✨ Profitez pleinement de votre teint lumineux et doré !</p>",
+            "page": ""
+          }
+        },
+        "tab_DJMVRd": {
+          "type": "tab",
+          "settings": {
+            "title": "Ingrédients clés",
+            "content": "<p><strong>Ingrédients clés & bienfaits :</strong><br/><br/>Notre formule 100% naturelle associe 5 actifs puissants pour un bronzage progressif, éclatant et sans soleil :</p><p>• <strong>Bêta-carotène</strong> : stimule la mélanine pour un teint doré naturel et protège la peau.<br/><br/>• <strong>L-Tyrosine</strong> : accélère le bronzage en soutenant la production de mélanine.<br/><br/>• <strong>Lutéine</strong> : antioxydant qui aide à préserver l’éclat et la santé de la peau.<br/><br/>• <strong>Vitamine C (Acide Ascorbique)</strong> : booste l’éclat du teint et prévient le vieillissement cutané.<br/><br/>• <strong>Vitamine A (Palmitate de Rétinol)</strong> : favorise une peau lisse, régénérée et un bronzage longue durée.</p>",
             "page": ""
           }
         }
@@ -444,7 +452,8 @@
         "tab_4PrAU6",
         "tab_NP8WG7",
         "tab_cLDUXa",
-        "tab_wx66fh"
+        "tab_wx66fh",
+        "tab_DJMVRd"
       ],
       "name": "Tabs",
       "settings": {
