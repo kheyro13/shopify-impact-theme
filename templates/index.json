@@ -403,6 +403,62 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "tabs_kBFxeH": {
+      "type": "tabs",
+      "blocks": {
+        "tab_4PrAU6": {
+          "type": "tab",
+          "settings": {
+            "title": "Caractéristiques",
+            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "page": ""
+          }
+        },
+        "tab_NP8WG7": {
+          "type": "tab",
+          "settings": {
+            "title": "Essayez-le 30 jours gratuitement",
+            "content": "<p>Essayez les gouttes autobronzantes <strong>MAVAANA</strong> sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas complètement satisfaite de votre flacon <strong>MAVAANA</strong> vous avez la possibilité de le retourner et <strong>vous recevrez un remboursement intégral</strong>.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_cLDUXa": {
+          "type": "tab",
+          "settings": {
+            "title": "Livraison gratuite à domicile",
+            "content": "<p>La livraison gratuite à domicile est gratuite. Selon le volume de commandes à traiter, le délai de livraison est estimé entre 5 et 8 jours ouvrés.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_wx66fh": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7J/7",
+            "content": "<p>Votre équipe est à votre disposition pour répondre à vos questions sept jours sur sept.</p><p>Vous pouvez nous contacter par email ou téléphone aux horaires suivants : du lundi au vendredi de 9h à 12h et de 14h à 18h, et le samedi et dimanche de 10h à 12h. N'hésitez pas à nous joindre.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_4PrAU6",
+        "tab_NP8WG7",
+        "tab_cLDUXa",
+        "tab_wx66fh"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -413,6 +469,7 @@
     "rich_text_Ffzrkp",
     "video_DEQ9kR",
     "multi_column_YcAYw4",
-    "featured_product_8PqFnt"
+    "featured_product_8PqFnt",
+    "tabs_kBFxeH"
   ]
 }
