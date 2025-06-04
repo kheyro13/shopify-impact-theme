@@ -379,6 +379,12 @@
             "max_width": 500
           }
         },
+        "liquid_TqnNUr": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #e1e1e1; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\" loading=\"lazy\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\" loading=\"lazy\">\n            </div>\n            <p style=\"font-style: italic; font-size: 11px; margin: 5px 0;\">\"Ces gouttes autobronzante sont en effet riches en caroténoïdes qui ont une action antioxydante et qui colorent peu à peu l’épiderme. Ils donnent une jolie couleur et une bonne mine à ceux qui en consomment, c’est tout à fait vrai !\"</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\" loading=\"lazy\">\n                <span>Isabelle Gallay</span>\n            </div>\n        </div>\n    </div>"
+          }
+        },
         "pickup_availability_rXUffx": {
           "type": "pickup_availability",
           "settings": {}
@@ -404,6 +410,7 @@
         "buy_buttons_cATBKV",
         "liquid_Lqt8b9",
         "image_z4zmDb",
+        "liquid_TqnNUr",
         "pickup_availability_rXUffx"
       ],
       "name": "Featured product",
