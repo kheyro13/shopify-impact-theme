@@ -193,6 +193,19 @@
         "overlay_opacity": 0
       }
     },
+    "custom_liquid_MEXjQb": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": false,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<div class=\"testimonials-slider-wrapper-template--24959207539031__trust_pilot_reviews_AxNB3A\">\n        <div class=\"testimonials-scrolling-wrap-template--24959207539031__trust_pilot_reviews_AxNB3A\">\n          <div class=\"testimonials-scrolling-list-template--24959207539031__trust_pilot_reviews_AxNB3A\">\n            \n              \n            \n              \n            \n              \n            \n          </div>\n          <div class=\"testimonials-scrolling-list-template--24959207539031__trust_pilot_reviews_AxNB3A\">\n            \n              \n            \n              \n            \n              \n            \n          </div>\n        </div>\n      </div>\n      \n    </div>\n<div class=\"testimonials-rating-template--24959207539031__trust_pilot_reviews_AxNB3A\" \n     style=\"display: flex; justify-content: center; align-items: center; gap: 12px; font-family: Arial, sans-serif;\">\n\n  <p class=\"testimonials-rating-text-template--24959207539031__trust_pilot_reviews_AxNB3A\" \n     style=\"margin: 0; font-weight: 600; font-size: 1rem;\">\n    Excellent\n  </p>\n\n  <div style=\"display: flex; align-items: center; gap: 4px; font-size: 1.2rem; font-weight: 700; line-height: 1;\">\n    <span style=\"display: inline-block; line-height: 1;\">4.6</span>\n    <span style=\"font-weight: 400; font-size: 1rem; line-height: 1; vertical-align: middle;\"><strong>/ 5</strong></span>\n  </div>\n\n  <div class=\"testimonials-stars-template--24959207539031__trust_pilot_reviews_AxNB3A\" \n       style=\"display: flex; gap: 6px;\">\n    <!-- Tes 5 étoiles SVG ici -->\n    <svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n      <g clip-path=\"url(#clip0_25_4)\">\n        <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n      </g>\n      <defs>\n        <clipPath id=\"clip0_25_4\">\n          <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n        </clipPath>\n      </defs>\n    </svg>\n    <svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n      <g clip-path=\"url(#clip0_25_4)\">\n        <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n      </g>\n      <defs>\n        <clipPath id=\"clip0_25_4\">\n          <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n        </clipPath>\n      </defs>\n    </svg>\n    <svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n      <g clip-path=\"url(#clip0_25_4)\">\n        <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n      </g>\n      <defs>\n        <clipPath id=\"clip0_25_4\">\n          <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n        </clipPath>\n      </defs>\n    </svg>\n    <svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n      <g clip-path=\"url(#clip0_25_4)\">\n        <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n      </g>\n      <defs>\n        <clipPath id=\"clip0_25_4\">\n          <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n        </clipPath>\n      </defs>\n    </svg>\n    <svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <rect width=\"32\" height=\"32\" fill=\"#00b67a\"></rect>\n      <g clip-path=\"url(#clip0_25_4)\">\n        <path d=\"M9.20283 27L16.001 21.807L22.7972 27L20.2018 18.596L27 13.403H18.5984L16.001 5L13.4037 13.403H5L11.7982 18.596L9.20283 27Z\" fill=\"#ffffff\"></path>\n      </g>\n      <defs>\n        <clipPath id=\"clip0_25_4\">\n          <rect width=\"22\" height=\"22\" fill=\"#ffffff\" transform=\"translate(5 5)\"></rect>\n        </clipPath>\n      </defs>\n    </svg>\n  </div>\n  \n</div>\n\n<div class=\"testimonials-text-template--24959207539031__trust_pilot_reviews_AxNB3A\" style=\"text-align: center;\">\n  <p>basé sur +<strong>1 067</strong> avis</p>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_YcAYw4": {
       "type": "multi-column",
       "blocks": {
@@ -241,6 +254,7 @@
         "item_kRaAy9",
         "item_ehfrT9"
       ],
+      "custom_css": [],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -620,6 +634,7 @@
     "image_with_text_overlay_R3PFGe",
     "rich_text_Ffzrkp",
     "video_DEQ9kR",
+    "custom_liquid_MEXjQb",
     "multi_column_YcAYw4",
     "featured_product_8PqFnt",
     "tabs_kBFxeH",
