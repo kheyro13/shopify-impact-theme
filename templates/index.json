@@ -15,13 +15,11 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/banniere.jpg",
-            "mobile_image": "shopify://shop_images/banniere_2.jpg",
             "content_max_width": 540,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "Bronzée sans y penser",
+            "title": "",
             "heading_tag": "h1",
             "button_text": "",
             "button_link": "",
@@ -56,7 +54,6 @@
         "logo_3J4MEk": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/vogue.png",
             "logo_width": 120,
             "link": ""
           }
@@ -64,7 +61,6 @@
         "logo_TKFP6k": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Cosmopolitan__revista__logotipo.png",
             "logo_width": 120,
             "link": ""
           }
@@ -72,7 +68,6 @@
         "logo_9UB7Qz": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/grazi.png",
             "logo_width": 120,
             "link": ""
           }
@@ -80,7 +75,6 @@
         "logo_Eg67PU": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
             "logo_width": 120,
             "link": ""
           }
@@ -143,8 +137,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Copie_de_Template_section_benefice.png",
-        "mobile_image": "shopify://shop_images/Copie_de_Template_section_benefice.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -186,7 +178,6 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "auto",
-        "video": "shopify://files/videos/0601(1).mp4 (2) (online-video-cutter.com).mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#ffffff",
@@ -212,7 +203,6 @@
         "item_U79kxU": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ZDZ.jpg",
             "column_size": "3",
             "title": "Sarah S.",
             "heading_tag": "h4",
@@ -225,7 +215,6 @@
         "item_kRaAy9": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/client_3_-_Modifie.png",
             "column_size": "3",
             "title": "Julie A.",
             "heading_tag": "h4",
@@ -238,7 +227,6 @@
         "item_ehfrT9": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/client_3_-_Modifie.jpg",
             "column_size": "3",
             "title": "Inès B.",
             "heading_tag": "h4",
